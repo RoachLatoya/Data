@@ -9,6 +9,6 @@ expect(MathOps.multiply(1, 3)).toBe(3);
  });
 
 test('divide 10 * 5 to equal 2', () => {
-expect(MathOps.divide(10, 5)).toBe(2);
+expect(MathOps.divide(10, 5)).toBe(4);
  });
                 
